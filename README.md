@@ -74,6 +74,8 @@ The website also provides an admin section to manage products, suppliers, custom
 
 GitHub: [Chethan-L-Poojary](https://github.com/Chethan-L-Poojary)
 
+GitHub Repository: https://github.com/Chethan-L-Poojary/petsite-ecommerce
+
 ## 📄 License
 
 This project is developed for educational purposes.
