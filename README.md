@@ -66,10 +66,6 @@ The website also provides an admin section to manage products, suppliers, custom
 
    `http://localhost/project/`
 
-## 📸 Screenshots
-
-Add screenshots of your website here to demonstrate its user interface and functionality.
-
 ## 👨‍💻 Author
 
 **Chethan L Poojary**
