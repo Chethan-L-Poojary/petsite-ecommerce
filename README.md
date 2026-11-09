@@ -48,21 +48,23 @@ The website also provides an admin section to manage products, suppliers, custom
 
 1. Download or clone this repository.
 
-2. Place the project folder inside the XAMPP `htdocs` directory.
+     `git clone https://github.com/Chethan-L-Poojary/petsite-ecommerce.git`
 
-3. Start Apache and MySQL from the XAMPP Control Panel.
+3. Place the project folder inside the XAMPP `htdocs` directory.
 
-4. Open phpMyAdmin in your browser:
+4. Start Apache and MySQL from the XAMPP Control Panel.
+
+5. Open phpMyAdmin in your browser:
 
    `http://localhost/phpmyadmin`
 
-5. Create a MySQL database for the project.
+6. Create a MySQL database for the project.
 
-6. Import the provided database SQL file into phpMyAdmin.
+7. Import the provided database SQL file into phpMyAdmin.
 
-7. Configure the database connection details in the PHP database connection file.
+8. Configure the database connection details in the PHP database connection file.
 
-8. Open the website in your browser:
+9. Open the website in your browser:
 
    `http://localhost/project/`
 
