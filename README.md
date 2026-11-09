@@ -1,4 +1,4 @@
-# 🐾 PetSite – Pet E-commerce Website
+# 🐾 PetSite E-commerce Website
 
 ## 📌 About the Project
 
